@@ -1,2 +1,3 @@
 # Toku-Whare
 Wellbeing Houora Site
+Tōku Whare is wellbeing/hauora app for tamariki. Using Sir Mason Durie's hollistic model, Te Whare Tapa Whā, this app is designed to help tamariki connect with and take-charge of their hauora. Four equal sides of the wharenui illustrate the four aspects of Māori well-being. Taha Tinana (physical), Taha Hinengaro (mental and emotional), Taha Wairua (spiritual/personal values), Taha Whānau (family/social), and Whenua (connection to nature and their roots). Tōku Whare gives tamariki a fun, interactive and creative way to build their own Whare Hauora - and reference for when things aren't feeling quite right. Tōku Whare also allows kaiako and caregivers to introduce kaupapa Māori to ākonga, to better align and connect with their needs.  
